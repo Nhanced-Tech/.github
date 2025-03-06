@@ -1,6 +1,6 @@
 # Welcome to Nhanced.Tech
 
-![Nhanced.Tech Logo](https://via.placeholder.com/800x200?text=Nhanced.Tech)
+![Nhanced.Tech Logo](https://nhanced.tech/media/NHD_rectangular.png)
 
 ## About Us
 
