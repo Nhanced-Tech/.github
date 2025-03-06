@@ -1,6 +1,6 @@
 # Welcome to Nhanced.Tech
 
-![Nhanced.Tech Logo](https://nhanced.tech/media/NHD_rectangular.png)
+![Nhanced.Tech Logo](https://nhanced.tech/media/NHD_1rectangular.png)
 
 ## About Us
 
