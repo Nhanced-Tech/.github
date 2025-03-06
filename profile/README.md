@@ -14,9 +14,9 @@ To create seamless, intelligent technology that enhances human capabilities and 
 
 We maintain high standards of code quality and organization. Our development teams follow these guidelines:
 
-- [GitHub Organization Guidelines](organization-guidelines.md) - How we structure our repositories and workflows
-- [Embedded C Development Best Practices](embedded-c-practices.md) - Standards for our embedded systems development
-- [Python Development Best Practices](python-practices.md) - Guidelines for our Python-based projects
+- [GitHub Organization Guidelines](nhanced-tech-github-organization.md) - How we structure our repositories and workflows
+- [Embedded C Development Best Practices](embedded-c-best-practices.md) - Standards for our embedded systems development
+- [Python Development Best Practices](python-best-practices.md) - Guidelines for our Python-based projects
 
 ## Our Projects
 
