@@ -36,9 +36,6 @@ We're always looking for talented individuals who are passionate about technolog
 ## Get in Touch
 
 - **Website**: [nhanced.tech](https://nhanced.tech)
-- **Email**: info@nhanced.tech
-- **LinkedIn**: [Nhanced.Tech](https://linkedin.com/company/nhanced-tech)
-- **Twitter**: [@NhancedTech](https://twitter.com/NhancedTech)
 
 ## License
 
