@@ -4,7 +4,8 @@
 
 ## About Us
 
-Nhanced.Tech is dedicated to developing innovative solutions at the intersection of hardware and software. We specialize in embedded systems, IoT development, and cutting-edge technology integration to enhance everyday experiences.
+At [Nhanced Tech], we develop cutting-edge embedded system solutions designed for Industry 5.0, integrating AI-driven factory agents to revolutionize automation. Our technology enables smarter, more adaptive manufacturing by optimizing new assembly and production lines with real-time intelligence and seamless human-machine collaboration. By leveraging advanced computing, IoT, and AI-powered control, we help industries build more efficient, autonomous, and sustainable operations. Whether you're modernizing existing infrastructure or creating the next generation of smart factories, we provide the solutions that drive the future of manufacturing.
+
 
 ## Our Vision
 
