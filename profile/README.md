@@ -30,11 +30,11 @@ We maintain high standards of code quality and organization. Our development tea
 
 ## Join Our Team
 
-We're always looking for talented individuals who are passionate about technology and innovation. Check our [careers page](https://nhanced.tech/careers) for current openings.
+We're always looking for talented individuals who are passionate about technology and innovation. Check our [careers page]( *(Coming soon)*) for current openings.
 
 ## Get in Touch
 
-- **Website**: [nhanced.tech](https://nhanced.tech)
+- **Website**: [nhanced.tech](https://nhanced.tech) *(Coming soon)*
 
 ## License
 
