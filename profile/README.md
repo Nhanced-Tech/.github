@@ -28,11 +28,23 @@ workflow, your choice of where inference happens.
 ## Tech Stack & Capabilities
 
 Our repositories are private (client work, proprietary designs), so
-GitHub's own per-repo language graphs aren't visible externally — here's
-what we actually build with:
+GitHub's own per-repo language graphs aren't visible externally — this
+section is curated directly from what's actually in our repos, not
+aspirational.
 
+**Languages & build tools:**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+**Frameworks, platforms & tools:**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
@@ -42,12 +54,13 @@ what we actually build with:
 ![Ollama](https://img.shields.io/badge/Ollama%20(local%20LLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Python end-to-end for orchestration, tooling, and CLI/pipeline work;
-embedded C / ESP-IDF for firmware; KiCad + SKiDL for PCB
-schematic/layout automation; FastAPI + Docker for services and sandboxed
-execution; MQTT/AWS IoT for device connectivity; OpenCV/YOLO for
-vision-based QA and verification; Ollama and the Anthropic API for the
-local-vs-hosted model choice described above.
+C/C++ (CMake-built) for embedded firmware — our largest codebase by far;
+Rust for newer firmware work; Python end-to-end for orchestration,
+tooling, and CLI/pipeline work; PHP for web tooling; KiCad + SKiDL for
+PCB schematic/layout automation; FastAPI + Docker for services and
+sandboxed execution; MQTT/AWS IoT for device connectivity; OpenCV/YOLO
+for vision-based QA and verification; Ollama and the Anthropic API for
+the local-vs-hosted model choice described above.
 
 ## Development Resources
 
